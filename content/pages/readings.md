@@ -85,13 +85,13 @@ Holmstrom, Bengt, and Paul Milgrom. "The Firm as an Incentive System." *American
 
 Williamson, Oliver. *Markets and Hierarchies: Analysis and Antitrust Implications*. New York, NY: Free Press, 1983. ISBN: 9780029347805.
 
-Hart, Oliver, and John Moore. "{{% resource_link "a0593dd1-f776-4c6d-b35c-77341f2a9ace" "Contracts as Reference Points" %}}." *Quarterly Journal of Economics* 123 (2008): 1-48.
+Hart, Oliver, and John Moore. "[Contracts as Reference Points](https://www.nber.org/papers/w12706)." *Quarterly Journal of Economics* 123 (2008): 1-48.
 
-Hart, Oliver, and Bengt Holmstrom. "{{% resource_link "f3cd30d8-447f-419d-bb59-8b9e8ba248fb" "A Theory of Firm Scope" %}}." National Bureau of Economic Research Working Paper No. 14613, December 2008.
+Hart, Oliver, and Bengt Holmstrom. "[A Theory of Firm Scope](http://www.nber.org/papers/w14613)." National Bureau of Economic Research Working Paper No. 14613, December 2008.
 
 ### Overviews
 
-Gibbons, Robert. "{{% resource_link "420aadca-4317-4aa4-86a4-db1fc0cfdfbb" "Four Formal(izable) Theories of the Firm" %}}?" *Journal of Economic Behavior and Organization* 58 (2005): 202-247 (sections 1-3).
+Gibbons, Robert. "[Four Formal(izable) Theories of the Firm](http://dx.doi.org/10.1016/j.jebo.2004.09.010)?" *Journal of Economic Behavior and Organization* 58 (2005): 202-247 (sections 1-3).
 
 (H) Tadelis, Steven, and Oliver Williamson. "Transaction Cost Economics." In *The Handbook of Organizational Economics*. Edited by R. Gibbons and J. Roberts. Princeton, NJ: Princeton University Press, forthcoming.
 
@@ -105,11 +105,11 @@ Gibbons, Robert. "{{% resource_link "420aadca-4317-4aa4-86a4-db1fc0cfdfbb" "Four
 Recent evidence
 {{< tdclose >}}{{< tdopen >}}
 
-\*Woodruff, Christopher. "{{% resource_link "b9ebb6d4-1593-449e-a132-4dfcdf3066df" "Non-contractible Investment and Vertical Integration in the Mexican Footwear Industry" %}}." *International Journal of Industrial Organization* 20, no. 8 (2002): 1197-1224.
+\*Woodruff, Christopher. "[Non-contractible Investment and Vertical Integration in the Mexican Footwear Industry](http://dx.doi.org/10.1016/S0167-7187(01)00085-6)." *International Journal of Industrial Organization* 20, no. 8 (2002): 1197-1224.
 
 Baker, George, and Thomas Hubbard. "Make Versus Buy in Trucking: Asset Ownership, Job Design, and Information." *American Economic Review* 93 (2003): 551-572.
 
-\*———. "{{% resource_link "a7458cfe-d824-4a19-a981-6d74fae77113" "Contractibility and Asset Ownership: On-Board Computers and Governance in US Trucking" %}}." *Quarterly Journal of Economics* 119, no. 4 (2004): 1443-1479.
+\*———. "[Contractibility and Asset Ownership: On-Board Computers and Governance in US Trucking](https://www.jstor.org/stable/25098722)." *Quarterly Journal of Economics* 119, no. 4 (2004): 1443-1479.
 
 Azoulay, Pierre. "Capturing Knowledge Within and Across Firm Boundaries: Evidence from Clinical Development." *American Economic Review* 94, no. 5 (2004): 1591-1612.
 
@@ -145,7 +145,7 @@ Klein, Benjamin, and Kevin M. Murphy. "Vertical Restraints as Contract Enforceme
 
 Klein, Benjamin. "The Role of Incomplete Contracts in Self-Enforcing Relationships." *Revue D'Économie Industrielle* 92 (2000): 67-80.
 
-\*Baker, George P., Robert Gibbons, and Kevin J. Murphy. "{{% resource_link "da116e1a-ff6d-43b6-9662-e8975087ba8a" "Relational Contracts and the Theory of the Firm" %}}." *Quarterly Journal of Economics* 117 (2002): 39-84.
+\*Baker, George P., Robert Gibbons, and Kevin J. Murphy. "[Relational Contracts and the Theory of the Firm](https://www.jstor.org/stable/2696482)." *Quarterly Journal of Economics* 117 (2002): 39-84.
 
 (H) Malcomson, James. "Relational Incentive Contracts." In *The Handbook of Organizational Economics*. Edited by R. Gibbons and J. Roberts. Princeton, NJ: Princeton University Press, forthcoming.
 
@@ -211,7 +211,7 @@ Baker, George. "Incentive Contracts and Performance Measurement." *Journal of Po
 
 \*Courty, Pascal, and Gerald Marschke. "An Empirical Investigation of Gaming Responses to Explicit Performance Incentives." *Journal of Labor Economics* 22 (2004): 23-56.
 
-\*Oyer, Paul. "{{% resource_link "7cd7b655-b9bf-4570-94cd-9ec9326603f0" "Fiscal Year Ends and Nonlinear Incentive Contracts: The Effect on Business Seasonality" %}}." *Quarterly Journal of Economics* 113, no. 1 (1998): 149-185.
+\*Oyer, Paul. "[Fiscal Year Ends and Nonlinear Incentive Contracts: The Effect on Business Seasonality](https://www.jstor.org/stable/2586988)." *Quarterly Journal of Economics* 113, no. 1 (1998): 149-185.
 
 Larkin, Ian. "The Cost of High-Powered Incentives: Employee Gaming in Enterprise Software Sales." Unpublished manuscript, Harvard Business School, 2007.
 
@@ -259,9 +259,9 @@ Chiappori, Pierre-André, Bernard Salanié, and Julie Valentin. "Early Starters 
 
 \*Prendergast, Canice. "The Role of Promotion in Inducing Specific Human Capital Acquisition." *Quarterly Journal of Economics* 108 (1993): 523-534.
 
-Acemoglu, Daron, and J. Stephen Pischke. "{{% resource_link "d858c7a5-4852-4e14-aa1a-f8a7b41fa4ef" "Why Do Firms Train? Theory and Evidence" %}}." *Quarterly Journal of Economics* 113, no. 1 (1998): 79-119.
+Acemoglu, Daron, and J. Stephen Pischke. "[Why Do Firms Train? Theory and Evidence](https://www.jstor.org/stable/2586986)." *Quarterly Journal of Economics* 113, no. 1 (1998): 79-119.
 
-Autor, David. "{{% resource_link "ccba8f3a-5d5c-46d7-a3fc-05e5765df118" "Why Do Temporary Help Firms Provide Free General Skills Training" %}}?" *Quarterly Journal of Economics* 116, no. 4 (2001): 1409-1448.
+Autor, David. "[Why Do Temporary Help Firms Provide Free General Skills Training](https://www.jstor.org/stable/2696463)?" *Quarterly Journal of Economics* 116, no. 4 (2001): 1409-1448.
 
 ### Networks
 
@@ -289,11 +289,11 @@ Careers in organizations
 
 \*———. "The Wage Policy of a Firm." *Quarterly Journal of Economics* 109 (1994): 921-955.
 
-Treble, John, Edwin van Gameren, Sarah Bridges, and Tim Barmby. "{{% resource_link "1588613d-7619-4f25-9ab1-713a308f1b86" "The Internal Economics of the Firm: Further Evidence from Personnel Data" %}}." *Labour Economics* 8 (2001): 531-552.
+Treble, John, Edwin van Gameren, Sarah Bridges, and Tim Barmby. "[The Internal Economics of the Firm: Further Evidence from Personnel Data](http://dx.doi.org/10.1016/S0927-5371%2801%2900045-8)." *Labour Economics* 8 (2001): 531-552.
 
 ### Theory and testing
 
-\*Gibbons, Robert, and Michael Waldman. "{{% resource_link "2695c6a0-d3fa-4f3c-bbf4-f9fcfe40ddce" "A Theory of Wage and Promotion Dynamics Inside a Firm" %}}." *Quarterly Journal of Economics* 114, no. 4 (1999): 1321-1358.
+\*Gibbons, Robert, and Michael Waldman. "[A Theory of Wage and Promotion Dynamics Inside a Firm](https://www.jstor.org/stable/2586965)." *Quarterly Journal of Economics* 114, no. 4 (1999): 1321-1358.
 
 Lluis, Stéphanie. "The Role of Comparative Advantage and Learning in Wage Dynamics and Intrafirm Mobility: Evidence from Germany." *Journal of Labor Economics* 23 (2005): 725-767.
 
@@ -347,7 +347,7 @@ Marschak, Jacob, and Roy Radner. *Economic Theory of Teams*. New Haven, CT: Yale
 
 \*Sah, Raj, and Joseph Stiglitz. "The Architecture of Economic Systems: Hierarchies and Polyarchies." *American Economic Review* 76 (1986): 716-27.
 
-Csaszar, Felipe. "{{% resource_link "2c168608-1cfa-48c5-bc95-5e37021751d4" "An Efficient Frontier in Organization Design" %}}." Unpublished manuscript, University of Pennsylvania, Wharton School, 2008.
+Csaszar, Felipe. "[An Efficient Frontier in Organization Design](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1097118)." Unpublished manuscript, University of Pennsylvania, Wharton School, 2008.
 
 ———. "Organizational Structure as a Determinant of Performance: Evidence from Mutual Funds." Unpublished manuscript, University of Pennsylvania, Wharton School, 2008.
 
@@ -375,7 +375,7 @@ Authority and power
 
 Rotemberg, Julio. "Power in Profit-Maximizing Organizations." *Journal of Economics and Management Strategy* 2 (1993): 165-198.
 
-Rajan, Raghuram, and Luigi Zingales. "{{% resource_link "acfa0227-2ff0-40c9-8ef9-14b88829febf" "Power in a Theory of the Firm" %}}." *Quarterly Journal of Economics* 113, no. 2 (1998): 387-432.
+Rajan, Raghuram, and Luigi Zingales. "[Power in a Theory of the Firm](https://www.jstor.org/stable/2586908)." *Quarterly Journal of Economics* 113, no. 2 (1998): 387-432.
 
 Pfeffer, Jeffrey. "Sources of Power in Organizations." Chapter 4 in *Power in Organizations*. Marshfield, MA: Pitman, 1981. ISBN: 9780273016397.
 
@@ -395,7 +395,7 @@ March, James. "The Business Firm as a Political Coalition." *Journal of Politics
 
 Skaperdas, Stergios. "Cooperation, Conflict, and Power in the Absence of Property Rights." *American Economic Review* 82 (1992): 720-739.
 
-\*Rajan, Raghuram, and Luigi Zingales. "{{% resource_link "63472b67-9733-46bb-9ccb-8e0431e46557" "The Tyranny of Inequality" %}}." *Journal of Public Economics* 76 (2000): 521-558.
+\*Rajan, Raghuram, and Luigi Zingales. "[The Tyranny of Inequality](http://dx.doi.org/10.1016/S0047-2727(99)00095-X)." *Journal of Public Economics* 76 (2000): 521-558.
 
 \*Milgrom, Paul, and John Roberts. "An Economic Approach to Influence Activities in Organizations." *American Journal of Sociology* 94 (1988): S154-S179.
 
@@ -419,9 +419,9 @@ Culture and language
 
 \*Weber, Roberto. "Managing Growth to Achieve Efficient Coordination in Large Groups." *American Economic Review* 96, no. 1 (2006): 114-126.
 
-Crémer, Jacques, Luis Garicano, and Andrea Prat. "{{% resource_link "34cfd46e-b12a-413d-afc0-3cb87a6dfa52" "Language and the Theory of the Firm" %}}." *Quarterly Journal of Economics* 122, no. 1 (2007): 373-407.
+Crémer, Jacques, Luis Garicano, and Andrea Prat. "[Language and the Theory of the Firm](https://www.jstor.org/stable/25098845)." *Quarterly Journal of Economics* 122, no. 1 (2007): 373-407.
 
-Van den Steen, Eric. "{{% resource_link "cae7ed33-50c8-4f52-a6a4-96852839c0f3" "On the Origin of Shared Beliefs (and Corporate Culture)" %}}." Unpublished manuscript, Massachusetts Institute of Technology, 2005.
+Van den Steen, Eric. "[On the Origin of Shared Beliefs (and Corporate Culture)](http://econpapers.repec.org/paper/mitsloanp/27855.htm)." Unpublished manuscript, Massachusetts Institute of Technology, 2005.
 
 O'Reilly, Charles, and Jennifer Chatman. "Culture as Social Control: Corporations, Cults, and Commitment." In *Research in Organizational Behavior: An Annual Series of Analytical Essays and Critical Reviews*. Vol. 18. Edited by B. Staw and L. Cummings. New York, NY: Elsevier, 1999, pp. 157-200. ISBN: 9781559389389.
 
@@ -437,13 +437,13 @@ Social relations
 
 Jones, Stephen. "Worker Interdependence and Output: The Hawthorne Studies Reevaluated." *American Sociological Review* 55 (1990): 176-190.
 
-\*Ichino, Andrea, and Giovanni Maggi. "{{% resource_link "8cb634aa-af6d-43c5-9cd7-e69ae0e040e1" "Work Environment and Individual Background: Explaining Regional Shirking Differentials in a Large Italian Firm" %}}." *Quarterly Journal of Economics* 115, no. 3 (2000): 1057-1090.
+\*Ichino, Andrea, and Giovanni Maggi. "[Work Environment and Individual Background: Explaining Regional Shirking Differentials in a Large Italian Firm](https://www.jstor.org/stable/2586903)." *Quarterly Journal of Economics* 115, no. 3 (2000): 1057-1090.
 
 Falk, Armin, and Andrea Ichino. "Clean Evidence on Peer Effects." *Journal of Labor Economics* 24 (2005): 39-57.
 
 Mas, Alex, and Enrico Moretti. "Peers at Work." *American Economic Review* 99, no. 1 (March 2009): 112-145.
 
-\*Bandiera, Oriana, Iwan Barankay, and Imran Rasul. "{{% resource_link "d4ca20b9-470f-40d0-8d3f-b34c7f0ba05a" "Social Preferences and the Response to Incentives: Evidence from Personnel Data" %}}." *Quarterly Journal of Economics* 120, no. 3 (2005): 917-962.
+\*Bandiera, Oriana, Iwan Barankay, and Imran Rasul. "[Social Preferences and the Response to Incentives: Evidence from Personnel Data](https://www.jstor.org/stable/25098759)." *Quarterly Journal of Economics* 120, no. 3 (2005): 917-962.
 
 Charness, Gary, Luca Rigotti, and Aldo Rustichini. "Individual Behavior and Group Membership." *American Economic Review* 97 (2007): 1340-1352.
 
@@ -507,7 +507,7 @@ Cases on organizational structures and processes
 
 ### Additional material
 
-{{% resource_link "c0a4cb25-a4e7-4052-a4f5-a7c0c33ee39c" "![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)" %}} Chandler, Alfred. *Strategy and Structure*. Cambridge, MA: MIT Press, 1969. Reprinted with new introduction by the author. Cambridge, MA: MIT Press, 1969. ISBN: 9780262530095.
+[![Buy at MIT Press](https://ocwcms.mit.edu/images/mp_logo.gif)](https://mitpress.mit.edu/9780262530095) Chandler, Alfred. *Strategy and Structure*. Cambridge, MA: MIT Press, 1969. Reprinted with new introduction by the author. Cambridge, MA: MIT Press, 1969. ISBN: 9780262530095.
 
 Miles, Raymond, and Charles Snow. "Causes of Failure in Network Organizations." *California Management Review* 34 (1992): 53-72.
 
@@ -533,7 +533,7 @@ Prendergast, Canice. "The Tenuous Trade-Off Between Risk and Incentives." *Journ
 
 Zábojnik, Ján. "Centralized and Decentralized Decision Making in Organizations." *Journal of Labor Economics* 20 (2002): 1-22.
 
-Rantakari, Heikki. "{{% resource_link "c40ad49a-bed7-4a37-8dc0-414046f4c894" "Uncertainty, Delegation, and Incentives" %}}." Unpublished manuscript, University of Southern California, 2008.
+Rantakari, Heikki. "[Uncertainty, Delegation, and Incentives](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=998339)." Unpublished manuscript, University of Southern California, 2008.
 
 ### Corporate strategy
 
@@ -541,7 +541,7 @@ Athey, Susan, and John Roberts. "Organizational Design: Decision Rights and Ince
 
 Dessein, Wouter, Luis Garicano, and Robert Gertner. "Organizing for Synergies: Allocating Control to Manage the Coordination-Incentives Tradeoff." Unpublished manuscript, Columbia University, 2008.
 
-Friebel, Guido, and Michael Raith. "{{% resource_link "64f3faca-58c0-4996-853a-a3959f66251d" "Resource Allocation and Firm Scope" %}}." Unpublished manuscript, University of Rochester, 2008.
+Friebel, Guido, and Michael Raith. "[Resource Allocation and Firm Scope](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=906126)." Unpublished manuscript, University of Rochester, 2008.
 
 ### Communication
 
@@ -553,9 +553,9 @@ Dessein, Wouter. "Authority and Communication in Organizations." *Review of Econ
 
 ### Obedience
 
-\*Van den Steen, Eric. "{{% resource_link "ba9d13f9-62c3-4a85-ae56-5bff8c3045c2" "Interpersonal Authority in a Theory of the Firm" %}}." Unpublished manuscript, Harvard Business School, 2007.
+\*Van den Steen, Eric. "[Interpersonal Authority in a Theory of the Firm](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1002789&rec=1&srcabs=319972)." Unpublished manuscript, Harvard Business School, 2007.
 
-Marino, Anthony, John Matsusaka, and Ján Zábojnik. "{{% resource_link "7c1c182d-c914-428a-b74a-cec5d6440dc3" "Disobedience and Authority" %}}." Unpublished manuscript, University of Southern California, 2008.
+Marino, Anthony, John Matsusaka, and Ján Zábojnik. "[Disobedience and Authority](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=914106)." Unpublished manuscript, University of Southern California, 2008.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -589,7 +589,7 @@ Richardson, George. "The Organisation of Industry." *Economic Journal* 82 (1972)
 
 Blois, K. "Vertical Quasi-Integration." *Journal of Industrial Economics* 20 (1972): 253-272.
 
-Eccles, Robert. "{{% resource_link "606bbade-5ab8-46d1-a7c0-67077df5ad6a" "The Quasifirm in the Construction Industry" %}}." *Journal of Economic Behavior and Organization* 2, no. 4 (1981): 335-357.
+Eccles, Robert. "[The Quasifirm in the Construction Industry](http://dx.doi.org/10.1016/0167-2681(81)90013-5)." *Journal of Economic Behavior and Organization* 2, no. 4 (1981): 335-357.
 
 Powell, Walter. "Neither Market Nor Hierarchy: Network Forms of Organization." *Research in Organizational Behavior* 12 (1990): 295-336.
 
@@ -609,11 +609,11 @@ Powell, Walter. "Neither Market Nor Hierarchy: Network Forms of Organization." *
 Corporate governance and corporate capital
 {{< tdclose >}}{{< tdopen >}}
 
-\*Baker, George P., and Karen Wruck. "{{% resource_link "5a74c4fc-ef65-4a72-89d0-da2dd93a4747" "Organizational Changes and Value Creation in Leveraged Buyouts: The Case of O.M. Scott & Sons Company" %}}." *Journal of Financial Economics* 25, no. 2 (1989): 163-190.
+\*Baker, George P., and Karen Wruck. "[Organizational Changes and Value Creation in Leveraged Buyouts: The Case of O.M. Scott & Sons Company](http://dx.doi.org/10.1016/0304-405X(89)90080-9)." *Journal of Financial Economics* 25, no. 2 (1989): 163-190.
 
-\*Kaplan, Steven N. "{{% resource_link "e79f8bf4-9161-46de-90d2-46de7a89c322" "The Effects of Management Buyouts on Operating Performance and Value" %}}." *Journal of Financial Economics* 24, no. 2 (1989): 217-254.
+\*Kaplan, Steven N. "[The Effects of Management Buyouts on Operating Performance and Value](http://dx.doi.org/10.1016/0304-405X(89)90047-0)." *Journal of Financial Economics* 24, no. 2 (1989): 217-254.
 
-Jensen, Michael, and Richard Ruback. "{{% resource_link "709991d0-0b51-47fe-b47a-8db77eb713bc" "The Market for Corporate Control: The Scientific Evidence" %}}." *Journal of Financial Economics* 11 (1983): 5-50.
+Jensen, Michael, and Richard Ruback. "[The Market for Corporate Control: The Scientific Evidence](http://dx.doi.org/10.1016/0304-405X(83)90004-1)." *Journal of Financial Economics* 11 (1983): 5-50.
 
 Holmstrom, Bengt, and Steven Kaplan. "The State of U.S. Corporate Governance: What's Right and What's Wrong?" *Journal of Applied Corporate Finance* 15 (2003): 8-20.
 
